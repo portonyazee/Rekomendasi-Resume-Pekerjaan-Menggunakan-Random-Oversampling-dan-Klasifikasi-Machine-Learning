@@ -3,6 +3,7 @@ Proyek ini bertujuan untuk membangun sistem rekomendasi kategori pekerjaan berda
 
 # Dataset
 Dataset : https://huggingface.co/datasets/azrai99/job-dataset dan https://media.githubusercontent.com/media/noran-mohamed/Resume-Classification-Dataset/refs/heads/main/Preprocessed_Data.csv
+
 Dilakukan preprocessing meliputi:
 1. Cleaning (menghapus data kosong, duplikasi, dan karakter khusus).
 2. Text preprocessing (case folding, stopwords removal, tokenization).
